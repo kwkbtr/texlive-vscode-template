@@ -1,0 +1,12 @@
+{
+    "image": "paperist/texlive-ja:latest",
+    "name": "texlive-ja",
+    // "workspaceFolder": "/workdir",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "james-yu.latex-workshop"
+            ]
+        }
+    }
+}
