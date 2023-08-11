@@ -17,5 +17,8 @@
             "env": {}
         }
     ],
-    "latex-workshop.latex.autoClean.run": "onBuilt"
+    "latex-workshop.latex.autoClean.run": "onBuilt",
+    "[latex]": {
+        "editor.formatOnSave": false
+    }
 }
